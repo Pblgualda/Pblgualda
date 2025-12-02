@@ -2,7 +2,7 @@
 ## My name is Pablo Gualda Parra, i'm videogame designer (not yet).
 I Study DAW at IES Francisco Ayala.
 
-<div class="tenor-gif-embed" data-postid="21563887" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/lebron-dance-salsa-gif-21563887">Lebron Dance GIF</a>from <a href="https://tenor.com/search/lebron-gifs">Lebron GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/es/view/lebron-dance-salsa-gif-21563887" alt="leBomb" width="200px" height="100px">  
 ![AbsoluteCinema](https://i.pinimg.com/736x/73/be/94/73be9499a73df99623b17fb817bc2154.jpg)
 
 [My YouTube Channel](https://www.youtube.com/@Headbuke2)
